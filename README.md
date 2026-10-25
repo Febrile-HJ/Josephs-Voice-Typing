@@ -2,7 +2,7 @@
 
 **조셉스 보이스 타이핑** · Windows 음성 받아쓰기 앱
 
-## [Windows 설치 ZIP 다운로드](https://github.com/Febrile-JoJoo/Josephs-Voice-Typing/releases/latest)
+## [Windows 설치 ZIP 다운로드](https://github.com/Febrile-HJ/Josephs-Voice-Typing/releases/latest)
 
 현재 배포 버전: **0.1.30**
 
